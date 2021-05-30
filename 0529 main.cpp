@@ -61,9 +61,9 @@ int main() {
 	MakeBoard();
 	Start(); //呼叫開始介面
 	string player1, player2;
-	cout << "Please enter the player1's name and char: ";
+	cout << "Please enter the player1's name : ";
 	cin >> player1;
-	cout << "Please enter the player2's name and char: ";
+	cout << "Please enter the player2's name : ";
 	cin >> player2;
 	system("cls");
 	cout << "!!!!!Game Start!!!!!";
